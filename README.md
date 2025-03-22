@@ -1,4 +1,4 @@
-# Aplikacja-Finansowa
+# Aplikacja-Finansowa - warsztat bootcamp
 
 ## Główne cele projektu:
 Aby stworzyć wartościową aplikację do zarządzania finansami, konieczne jest określenie kluczowych funkcji i możliwości, które powinny znaleźć się w finalnym produkcie. Celem projektu jest dostarczenie narzędzia, które nie tylko ułatwi użytkownikom monitorowanie ich wydatków i przychodów, ale także pozwoli im podejmować bardziej świadome decyzje finansowe.
