@@ -10,4 +10,4 @@ Stworzenie systemu CRUD dla przychodów i wydatków – użytkownicy muszą mie�
 Wizualizacja danych finansowych w postaci wykresów, aby użytkownicy mogli szybko analizować swoje finanse.
 Możliwość ustawiania miesięcznych limitów budżetowych, które pomogą w kontrolowaniu wydatków.
 Eksport danych do pliku CSV, co pozwoli użytkownikom na dodatkową analizę finansów poza aplikacją.
-### Integracja z API do pobierania aktualnych kursów walut ### , - umożliwiająca przeliczanie wartości transakcji w różnych walutach.
+Integracja z API do pobierania aktualnych kursów walut , - umożliwiająca przeliczanie wartości transakcji w różnych walutach.
